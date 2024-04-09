@@ -5,7 +5,7 @@ contingent on ratification of 1st Responder Protocol [^1]
 
 <details><summary>GD=governance dept, LG=legal guild", Le✂DAO={@drllau, ... }|Le⚔DAO</summary><br>
 
-@drllau actions and his (_un_)authorised agents ¡TBA! (subject to ratification) are severable from the actual DAO [^2]
+@drllau actions and his (_un_)authorised agents ¡TBA! (subject to ratification) are severable from the actual DAO [^4]
   
 LG={@lawpanda(LIA) or nominee, ~~~@daolexa(MIA)~~~, ... eaglex(ex-LG)}
 
@@ -53,7 +53,7 @@ GD->>LG: Any other thoughts on your mind, anything?
 2. I was a ␢DAO contributor under @eaglelex ~2-3 years ago (I wrote a brief on crypto law in AU/NZ); and 
 3. in the _prolonged absence_ of _any_ response within LG ... (I've been checking the LegalGuild meeting weekly);
 
-I wish to submit a private proposal [^2] to **disband the LegalGuild** and outsource functions to LexDAO [^5] on either (casemix funding): 
+I wish to submit a private proposal [^4] to **disband the LegalGuild** and outsource functions to LexDAO [^5] on either (casemix funding): 
 - a **contingency** basis ... ␢DAO [^3] lodges tlBANK into LexDAO for emergency response to legal situation;
 - for a fixed rate of $BANK to LXCHAT [^6] (we don't have an economic token, LXCHAT is equiv to 15min consultation with a paralegal we in **convert** and provide as many hours as you deem fit to your ombuds office);
 - we have a formal _upskilling exchange_ ([timebanked](https://www.investopedia.com/terms/t/time-banking.asp#:~:text=Understanding%20Time%20Banking,regardless%20of%20the%20service%20rendered.)) where you send Dev or PM over and we force-feed them legal information up to Lvl1+ or Lvl2- (I'll spec out the skills later). This aculturation stage should build in resilience in case analgous event happen in the future.
@@ -104,8 +104,19 @@ journey
 
 [^3]: The question comes when the protocol descalates and the brevet promotion reverts to normal status (in my situation lvl4 DAOsiger as [certified](https://github.com/lexDAO/Legal-Engineers?tab=readme-ov-file#lexdao-legal-engineers-%EF%B8%8F-1q2024) legal engineer specialising in [IP](https://discord.com/channels/682960432272506907/931652879385767987)/IT/ID law). I have zilch desire to be [mayor](https://forum.bankless.community/t/plan-for-inclusion-of-guilds-departments-and-individual-bdao-members-in-restructuring-the-dao/10625/2?u=drllau) and would gladly turn over proceedings (on provision adequate compensation for emergency callout) during the `Sense` phase to @lawpanda or his nominee and with the equivalent of @eaglex implement the triage including recovering any IP assets which have been misappropriated or ganked.
 
-[^4]:
+[^4]: Clarification of legal status. LexDAO is an unincorporated non-profit association domiciled in Wyoming. Each member is autonomous (I'm based in AU not US) but under our [constitution](https://github.com/lexDAO/LexDAO-Constitution), we 
 
-[^5]: As per [forum](https://forum.bankless.community/t/banklessdao-multisig-funding-pause-and-bdao-reorganization/10469/41?u=drllau)
-> [!WARNING]
+> Decentralized Autonomous Organization (DAO). LexDAO is a DAO, an unincorporated association of individuals, entities, associations and/or other persons or groups of persons who all agree to join together in a common purpose. 
+>
+and therefore is not a direct contracting party. Hence actions undertaken by myself, even if I draw upon the network of l'expert witin my personal network, have no binding effect on the UNA. However, there are discussions to upgrade to the wyoming [DUNA](https://a16zcrypto.com/posts/article/duna-for-daos/) which may provide an upgrade path for bDAO as individuals can become guests, working for membership (zero monetary cost), whilst being covered under:
+> Wyoming §17-32-108 (b)ii “Capacity to assert and defend; standing” based on germane criteria ... 
+which in this case would be lobbying or even legal action on bDAO's behalf to tidying up the mob of _economic refugees_.
 > 
+[^5]: As per [forum](https://forum.bankless.community/t/banklessdao-multisig-funding-pause-and-bdao-reorganization/10469/41?u=drllau) I emphatically emphasise that **LexDAO is not a law firm** and cannot give legal advice though it can source it through co-op of existing members. We do have access to advocacy skills such as via leXpunk Army but they share the same web3 journey but are not tied to LexDAO in any formal way except via overlap of common members.
+
+[^6]: BANK to LXCHAT. Acknowledging that the financial situatio of bDAO is perilous, we make need to come to some **barter** arrangement. Our internal calculations show that 15min of a lvl 2 paralegal (bare minimum to productively participate in LexDAO acitivites) is ~$20/hr which means 10kBank = 1 LXCHAT. This does not include the rack rate of lawyers (who have professional indemnity insurance) which can range from $150-800 USD depending on the skillset desired. This will only need to be discussed at the final stage.
+
+[^7]: The Wyoming DAO Unincorporated Non-profit Association is a daoified version of the previous UNA. We point out that whilst on surface it appears similar, there are some highly interesting features, noteably
+- membership is by **principle** and not as traditional paid-up membership
+- letters of authorities are the interface to the fiat/IRL agencies and your existing structure will need to conform
+- however, Offices can be global in that there's no reason for the GD or PM to be domiciled in the same city.
