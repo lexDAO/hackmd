@@ -113,7 +113,7 @@ which in this case would be lobbying or even legal action on bDAO's behalf to ti
 
 [^6]: BANK to LXCHAT. Acknowledging that the financial situatio of bDAO is perilous, we make need to come to some **barter** arrangement. Our internal calculations show that 15min of a lvl 2 paralegal (bare minimum to productively participate in LexDAO acitivites) is ~$20/hr which means 10kBank = 1 LXCHAT. This does not include the rack rate of lawyers (who have professional indemnity insurance) which can range from $150-800 USD depending on the skillset desired. This will only need to be discussed at the final stage.
 
-[^7]: The Wyoming DAO Unincorporated Non-profit Association is a daoified version of the previous UNA. We point out that whilst on surface it appears similar, there are some highly interesting [features](https://a16zcrypto.com/posts/article/duna-for-daos/), noteably:
+[^7]: The Wyoming DAO Unincorporated Non-profit Association is a daoified version of the previous UNA. We point out that whilst on surface it appears [similar](https://au.finance.yahoo.com/news/daos-beware-neo-imperialism-rise-144443927.html), there are some highly interesting [features](https://a16zcrypto.com/posts/article/duna-for-daos/), noteably:
 - membership is by **principle** and not as traditional paid-up membership
 - letters of **authorities** are the interface to the fiat/IRL agencies and your existing structure will need to conform
 - however, **Offices** can be global in that there's no reason for the GD or PM to be domiciled in the same city.
