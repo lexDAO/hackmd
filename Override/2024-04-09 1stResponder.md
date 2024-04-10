@@ -64,7 +64,7 @@ The should basically give all your business development path operators a basic p
 
 ----
 
-## Background to the Protocols
+## Background to the Protocols (Supplementary info not immediately relevant to short-term action)
 
 ![First Responder Protocol and decision framework](https://www.schlockmercenary.com/strip/7279/0/schlock20200516ab.jpg?v=1589392786535)
 
