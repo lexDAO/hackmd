@@ -117,3 +117,9 @@ which in this case would be lobbying or even legal action on bDAO's behalf to ti
 - membership is by **principle** and not as traditional paid-up membership
 - letters of **authorities** are the interface to the fiat/IRL agencies and your existing structure will need to conform
 - however, **Offices** can be global in that there's no reason for the GD or PM to be domiciled in the same city.
+
+[^8]:
+Billed to @daolexa as non-guild time to answer question which could have been answered by RTC **Strawman Proposal**
+![image](https://github.com/lexDAO/hackmd/assets/14944510/665aeb06-1316-4f87-8ea1-dd452b2b6de3)
+
+
